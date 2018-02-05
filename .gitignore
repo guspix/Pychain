@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+chainenv
+/static
+.DS_Store
+.project
+.pydevproject
